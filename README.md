@@ -1,7 +1,8 @@
 ## Bem-vindo(a) ao meu perfil! 😁
 
  <div>
-
+  <p>
+   Welcome to my GitHub! I'm an IT student and Data Analyst with a passion for transforming raw data into meaningful insights. Currently, I'm focused on enhancing my skills in SQL and Python, using them to analyze, visualize, and optimize data-driven decision-making.
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png">
