@@ -1,9 +1,6 @@
-## Bem-vindo(a) ao perfil do Mauricio-code😁
+## Bem-vindo(a) ao meu perfil do Mauricio-code😁
 
  <div>
-   <a href="https://github.com/Mauricio-code">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauricio-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -14,7 +11,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Pra mais informaçao sobre mim acesse meu Linkedin abaixo!
  
 <div> 
 
